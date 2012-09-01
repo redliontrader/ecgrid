@@ -22,7 +22,7 @@
 		{
 			width:800px;
 			height: 40px;
-			position: relative;
+            position: relative;
             display:block;
             overflow:hidden;
 		}
@@ -47,6 +47,7 @@
        }
        #cloud.ticker, #trans_cloud.ticker{
        height: 56px;
+       line-height:56px;
        }
 	</style>
     
